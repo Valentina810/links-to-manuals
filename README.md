@@ -9,9 +9,10 @@
 - [ ]  :atom_symbol: [ :five: Настройка джобы для мобильных автотестов(сборка приложения, поднятие эмуляторов для тестирования, прогон тестов в многопоточном режиме и выгрузка в аллюр)](https://github.com/valentina810/ci-cd/blob/main/chapters/setting_job_for_mobile_tests.md)
 - [ ]  :atom_symbol: [ :six: Настройка дожима мобильных тестов в пределах текущего лаунча](https://github.com/valentina810/ci-cd/blob/main/chapters/setting_up_mobile_test_pressure_within_a_launch.md)
 ---
-- [ ] :atom_symbol: [ :seven: Делаем бэкап джобы и восстанавливаем джобу из бэкапа](https://github.com/valentina810/ci-cd/blob/main/chapters/backup_jobs.md)
-- [ ] :atom_symbol: [ 8️⃣ Настройка плагина JobConfigHistory для отслеживания внесения изменений в джобы](https://github.com/valentina810/ci-cd/blob/main/chapters/setting_job_config_history.md)
-- [ ] :atom_symbol: [ :nine: Настройка плагина для сбора метрик в Jenkins](https://github.com/valentina810/ci-cd/blob/main/chapters/jenkins_metrics.md)
+- [ ] :atom_symbol: [ :seven: Jenkins Pipeline или Freestyle Job? Как переделать Freestyle Job в Jenkins Pipeline быстро](https://github.com/valentina810/ci-cd/blob/main/chapters/freestyle_job_in_jenkins_pipeline.md)
+- [ ] :atom_symbol: [ 8️⃣  Делаем бэкап джобы и восстанавливаем джобу из бэкапа](https://github.com/valentina810/ci-cd/blob/main/chapters/backup_jobs.md)
+- [ ] :atom_symbol: [ :nine: Настройка плагина JobConfigHistory для отслеживания внесения изменений в джобы](https://github.com/valentina810/ci-cd/blob/main/chapters/setting_job_config_history.md)
+- [ ] :atom_symbol: [ 🔟 Настройка плагина для сбора метрик в Jenkins](https://github.com/valentina810/ci-cd/blob/main/chapters/jenkins_metrics.md)
 
 Для получения доступа пишите в <a href="https://t.me/valentinakole"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 
