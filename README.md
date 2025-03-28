@@ -13,3 +13,5 @@
 - [ ] :atom_symbol: [ 8️⃣ Настройка плагина JobConfigHistory для отслеживания внесения изменений в джобы](https://github.com/valentina810/ci-cd/blob/main/chapters/setting_job_config_history.md)
 - [ ] :atom_symbol: [ :nine: Настройка плагина для сбора метрик в Jenkins](https://github.com/valentina810/ci-cd/blob/main/chapters/jenkins_metrics.md)
 
+Для получения доступа пишите в <a href="https://t.me/valentinakole"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+
